@@ -1,0 +1,7 @@
+name = "MyModule"
+uuid = "4ed39439-7b3e-406e-a300-72438ccd9a68"
+authors = ["DHKiem <kiem.dohoon@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
